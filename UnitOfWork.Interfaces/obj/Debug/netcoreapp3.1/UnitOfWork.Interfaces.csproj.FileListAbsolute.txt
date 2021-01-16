@@ -1,0 +1,14 @@
+C:\Users\j.gonzalez.castillo\Documents\Proyectos\Desarrollo\APIRoulette\UnitOfWork.Interfaces\bin\Debug\netcoreapp3.1\UnitOfWork.Interfaces.deps.json
+C:\Users\j.gonzalez.castillo\Documents\Proyectos\Desarrollo\APIRoulette\UnitOfWork.Interfaces\bin\Debug\netcoreapp3.1\UnitOfWork.Interfaces.dll
+C:\Users\j.gonzalez.castillo\Documents\Proyectos\Desarrollo\APIRoulette\UnitOfWork.Interfaces\bin\Debug\netcoreapp3.1\UnitOfWork.Interfaces.pdb
+C:\Users\j.gonzalez.castillo\Documents\Proyectos\Desarrollo\APIRoulette\UnitOfWork.Interfaces\obj\Debug\netcoreapp3.1\UnitOfWork.Interfaces.csprojAssemblyReference.cache
+C:\Users\j.gonzalez.castillo\Documents\Proyectos\Desarrollo\APIRoulette\UnitOfWork.Interfaces\obj\Debug\netcoreapp3.1\UnitOfWork.Interfaces.AssemblyInfoInputs.cache
+C:\Users\j.gonzalez.castillo\Documents\Proyectos\Desarrollo\APIRoulette\UnitOfWork.Interfaces\obj\Debug\netcoreapp3.1\UnitOfWork.Interfaces.AssemblyInfo.cs
+C:\Users\j.gonzalez.castillo\Documents\Proyectos\Desarrollo\APIRoulette\UnitOfWork.Interfaces\obj\Debug\netcoreapp3.1\UnitOfWork.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\j.gonzalez.castillo\Documents\Proyectos\Desarrollo\APIRoulette\UnitOfWork.Interfaces\obj\Debug\netcoreapp3.1\UnitOfWork.Interfaces.dll
+C:\Users\j.gonzalez.castillo\Documents\Proyectos\Desarrollo\APIRoulette\UnitOfWork.Interfaces\obj\Debug\netcoreapp3.1\UnitOfWork.Interfaces.pdb
+C:\Users\j.gonzalez.castillo\Documents\Proyectos\Desarrollo\APIRoulette\UnitOfWork.Interfaces\bin\Debug\netcoreapp3.1\DataLayer.dll
+C:\Users\j.gonzalez.castillo\Documents\Proyectos\Desarrollo\APIRoulette\UnitOfWork.Interfaces\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\j.gonzalez.castillo\Documents\Proyectos\Desarrollo\APIRoulette\UnitOfWork.Interfaces\bin\Debug\netcoreapp3.1\DataLayer.pdb
+C:\Users\j.gonzalez.castillo\Documents\Proyectos\Desarrollo\APIRoulette\UnitOfWork.Interfaces\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\j.gonzalez.castillo\Documents\Proyectos\Desarrollo\APIRoulette\UnitOfWork.Interfaces\obj\Debug\netcoreapp3.1\UnitOfWork.Interfaces.csproj.CopyComplete
